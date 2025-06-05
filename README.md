@@ -1,4 +1,6 @@
-![Logo de Riskit](public/logo.png)
+<div align="center">
+  <img src="public/logo.png" alt="Logo de Riskit" width="150">
+</div>
 
 # Riskit
 
