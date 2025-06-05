@@ -1,4 +1,4 @@
-![Logo de Riskit](logo.png)
+![Logo de Riskit](public/logo.png)
 
 # Riskit
 
@@ -26,7 +26,7 @@ Riskit es una aplicación web y plataforma de apuestas deportivas y juegos de ca
 Para iniciar la aplicación en modo desarrollo:
 
 ```bash
-npm run dev
+ionic serve
 ```
 
 Esto iniciará un servidor local y podrás acceder a la aplicación en tu navegador.
